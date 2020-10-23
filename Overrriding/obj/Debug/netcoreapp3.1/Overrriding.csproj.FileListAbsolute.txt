@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\methods\Overrriding\obj\Debug\netcoreapp3.1\Overrriding.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\methods\Overrriding\obj\Debug\netcoreapp3.1\Overrriding.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\methods\Overrriding\obj\Debug\netcoreapp3.1\Overrriding.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\methods\Overrriding\bin\Debug\netcoreapp3.1\Overrriding.exe
+C:\codebitsacademy\C-Sharp\methods\Overrriding\bin\Debug\netcoreapp3.1\Overrriding.deps.json
+C:\codebitsacademy\C-Sharp\methods\Overrriding\bin\Debug\netcoreapp3.1\Overrriding.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\methods\Overrriding\bin\Debug\netcoreapp3.1\Overrriding.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\methods\Overrriding\bin\Debug\netcoreapp3.1\Overrriding.dll
+C:\codebitsacademy\C-Sharp\methods\Overrriding\bin\Debug\netcoreapp3.1\Overrriding.pdb
+C:\codebitsacademy\C-Sharp\methods\Overrriding\obj\Debug\netcoreapp3.1\Overrriding.dll
+C:\codebitsacademy\C-Sharp\methods\Overrriding\obj\Debug\netcoreapp3.1\Overrriding.pdb
